@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\98612\source\repos\软件安全实验2\软件安全实验2\main.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\98612\source\repos\软件安全实验2\软件安全实验2\main.cpp(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\98612\source\repos\软件安全实验2\软件安全实验2\main.cpp(84): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\98612\source\repos\软件安全实验2\软件安全实验2\main.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\98612\source\repos\软件安全实验2\软件安全实验2\main.cpp(213): warning C4101: “p”: 未引用的局部变量
+c:\users\98612\source\repos\软件安全实验2\软件安全实验2\main.cpp(212): warning C4101: “o”: 未引用的局部变量
+c:\users\98612\source\repos\软件安全实验2\软件安全实验2\main.cpp(391): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+c:\users\98612\source\repos\软件安全实验2\软件安全实验2\main.cpp(350): warning C4101: “cMemAddr”: 未引用的局部变量
+c:\users\98612\source\repos\软件安全实验2\软件安全实验2\main.cpp(350): warning C4101: “cOrd”: 未引用的局部变量
+c:\users\98612\source\repos\软件安全实验2\软件安全实验2\main.cpp(429): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“DWORD”
+  软件安全实验2.vcxproj -> C:\Users\98612\Source\Repos\软件安全实验2\Debug\软件安全实验2.exe

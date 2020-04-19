@@ -1,0 +1,9 @@
+【实验内容】
+使用c/c++语言编写一个应用程序，实现分析PE格式文件头的功能。要求以合适格式输出：
+一、输出结构_IMAGE_DOS_HEADER、_IMAGE_NT_HEADERS、_IMAGE_FILE_HEADER、_IMAGE_OPTIONAL_HEADER、_IMAGE_SECTION_HEADER 的RVA地址。
+二、输出下面结构中各个字段的取值：
+1）_IMAGE_DOS_HEADER中的e_magic和e_lfarlc两个字段取值。
+2）_IMAGE_NT_HEADERS中的Signature字段取值。
+3）_IMAGE_FILE_HEADER中的Machine 、NumberOfSections、Characteristics字段取值。
+4）_IMAGE_OPTIONAL_HEADER中的Magic、SizeOfCode、AddressOfEntryPoint、ImageBase、SectionAlignment、FileAlignment、SizeOfImage、字段取值。
+5）数组/节表IMAGE_SECTION_HEADER中各个成员的取值。

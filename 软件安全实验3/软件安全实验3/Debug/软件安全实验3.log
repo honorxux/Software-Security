@@ -1,0 +1,8 @@
+﻿  源.cpp
+c:\users\98612\source\repos\软件安全实验3\软件安全实验3\源.cpp(72): warning C4733: 内联 asm 分配到“FS:0”: 处理程序未注册为安全处理程序
+c:\users\98612\source\repos\软件安全实验3\软件安全实验3\源.cpp(72): warning C4733: 内联 asm 分配到“FS:0”: 处理程序未注册为安全处理程序
+c:\users\98612\source\repos\软件安全实验3\软件安全实验3\源.cpp(72): warning C4731: “main”: 框架指针寄存器“ebp”被内联程序集代码修改
+c:\users\98612\source\repos\软件安全实验3\软件安全实验3\源.cpp(72): warning C4731: “main”: 框架指针寄存器“ebp”被内联程序集代码修改
+c:\users\98612\source\repos\软件安全实验3\软件安全实验3\源.cpp(73): warning C4731: “main”: 框架指针寄存器“ebp”被内联程序集代码修改
+c:\users\98612\source\repos\软件安全实验3\软件安全实验3\源.cpp(75): warning C4731: “main”: 框架指针寄存器“ebp”被内联程序集代码修改
+  软件安全实验3.vcxproj -> C:\Users\98612\Source\Repos\软件安全实验3\Debug\软件安全实验3.exe

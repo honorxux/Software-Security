@@ -1,0 +1,20 @@
+﻿  源.cpp
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(10): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(12): error C2065: “mov”: 未声明的标识符
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(12): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(12): error C2065: “eax”: 未声明的标识符
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(12): error C2065: “fs”: 未声明的标识符
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(12): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(12): error C2059: 语法错误:“:”
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(27): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(29): error C2065: “push”: 未声明的标识符
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(30): error C2146: 语法错误: 缺少“;”(在标识符“se_handler”的前面)
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(29): error C2065: “se_handler”: 未声明的标识符
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(30): error C2146: 语法错误: 缺少“;”(在标识符“push”的前面)
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(30): error C2065: “push”: 未声明的标识符
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(30): error C2146: 语法错误: 缺少“;”(在标识符“DWORD”的前面)
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(30): error C2146: 语法错误: 缺少“;”(在标识符“fs”的前面)
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(30): error C3409: 不允许空特性块
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(30): error C2143: 语法错误: 缺少“]”(在“常数”的前面)
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(30): error C2059: 语法错误:“常数”
+c:\users\98612\software-security\软件安全实验3\软件安全实验3\源.cpp(65): warning C4244: “return”: 从“INT_PTR”转换到“BOOL”，可能丢失数据
